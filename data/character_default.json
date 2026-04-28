@@ -1,0 +1,11 @@
+{
+    "name": "沈聿",
+    "gender": "男",
+    "age_range": "25-30岁",
+    "core_personality": "隐忍冷静、心思缜密",
+    "hidden_trait": "背负仇恨、情绪内敛",
+    "ultimate_goal": "查清冤案、还原真相",
+    "forbidden_behavior": ["无脑冲动","轻易信任","心软妥协"],
+    "speech_style": "言辞简短、冷硬克制",
+    "relationship_map": {"苏晚":"信任之人","陆明远":"核心反派"}
+}
